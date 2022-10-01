@@ -1,0 +1,14 @@
+{
+  "name": "calculator_web_app",
+  "version": "1.0.0",
+  "description": " A Basic calculator using nodejs and express to add two nu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coder-19",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
